@@ -1,4 +1,4 @@
-# Project Title
+# gulp-setup
 
 This repo contains example project to show how to use npm for front-end package management in combination with Gulp
 
@@ -47,5 +47,5 @@ npm run clean
 Delete files installed by npm
 
 ```
-npm run clean
+npm run clean-npm
 ```
